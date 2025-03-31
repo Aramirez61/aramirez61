@@ -35,11 +35,12 @@ Linux, Windows, macOS
 **[Spiritual Deval](https://github.com/Sanmeet-EWU/cscd-488-490-project-spiritual-deval)**  
 -Blazor Server web app built with C#, MySQL, and AWS to manage events, volunteers, and secure user accounts for a spiritual temple.
 
-**Dynamic IP Shuffling Defense**  
--Python-based IP rotation system running in Ubuntu to prevent reconnaissance and scanning attacks. Built/tested using pfSense and Linux VMs.
-
 **[CSV Data Filtering with LINQ](https://github.com/Aramirez61/EWU-CSCD371-2024-Winter/tree/LINQ_DATA_FILTERING)**  
 -C# application using LINQ to process and analyze CSV datasets, including unit testing with MSTest.
+
+**Dynamic IP Shuffling Defense**  
+-Python-based IP rotation system running in Ubuntu to prevent reconnaissance and scanning attacks. Built/tested using pfSense and Linux VMs.  
+-[Project Report (Google Docs)](https://drive.google.com/file/d/12Uwjm2qxqHEAN82_29VmoJU0ZBP2bNEu/view)
 
 ---
 
