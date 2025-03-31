@@ -1,4 +1,4 @@
-# Hello 👋!, I'm Andree Ramirez
+# Hello 👋! I'm Andree Ramirez
 
 I'm a Computer Science student at Eastern Washington University (Graduating June 2025 🎓 ), focused on **software development** and **cybersecurity**. I enjoy building full stack applications, automating tasks, and exploring ways to secure systems through hands-on experimentation.
 
