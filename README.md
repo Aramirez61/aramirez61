@@ -7,7 +7,7 @@ I'm a Computer Science student at Eastern Washington University (Graduating June
 ## 💻 Tech Stack & Tools
 
 **Languages:**  
-C#, Python, Java, JavaScript, C++, HTML, CSS  
+C#, Java, Python, C++, HTML, CSS, JavaScript
 
 **Frameworks & Libraries:**  
 .NET, Blazor, Entity Framework, Identity Framework, MSTest, xUnit, Tailwind 
@@ -23,6 +23,7 @@ Linux, Windows, macOS
 ## 🔐 Interests
 
 - Full-stack web development (Blazor, .NET, SQL)
+- Databases and Data Analytics
 - Secure software design
 - Network defense (firewalls, honeypots, MTD)
 - Penetration testing & cloud security
