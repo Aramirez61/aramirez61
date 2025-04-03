@@ -48,7 +48,8 @@ Linux, Windows, macOS
 ## 📫 Let's Connect
 
 - 📧 andree.ramirez8474@gmail.com  
-- 🔗 [LinkedIn](https://linkedin.com/in/andree-ramirez61)  
+- 🔗 [LinkedIn](https://linkedin.com/in/andree-ramirez61)
+- Note: LinkedIn may temporarily be unavailable due to account verification process.
 
 ---
 
