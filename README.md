@@ -43,6 +43,10 @@ Linux, Windows, macOS
 -Python-based IP rotation system running in Ubuntu to prevent reconnaissance and scanning attacks. Built/tested using pfSense and Linux VMs.  
 -[Project Report (Google Docs)](https://drive.google.com/file/d/12Uwjm2qxqHEAN82_29VmoJU0ZBP2bNEu/view)
 
+**Penetration Test and Exploitation**  
+-Conducted a penetration test on a virtual machine, identifying critical vulnerabilities such as NFS information disclosure, SSH misconfigurations, and Local File Inclusion in Bolt CMS. 
+-[Project Report (Google Docs)](https://drive.google.com/file/d/1AXwRPOQWVj0ax8p2aFxKuNUd1mWmR3cs/view?usp=sharing)
+
 ---
 
 ## 📫 Let's Connect
