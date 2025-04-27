@@ -1,4 +1,4 @@
-# Hello 👋! I'm Andree Ramirez
+# Hello! I'm Andree Ramirez
 
 I'm a Computer Science student at Eastern Washington University (Graduating June 2025 🎓 ), focused on **software development** and **cybersecurity**. I enjoy building full stack applications, automating tasks, and exploring ways to secure systems through hands-on experimentation.
 
@@ -20,7 +20,7 @@ Linux, Windows, macOS
 
 ---
 
-## 🔐 Interests
+## Interests
 
 - Full-stack web development (Blazor, .NET, SQL)
 - Databases and Data Analytics
@@ -39,13 +39,15 @@ Linux, Windows, macOS
 **[CSV Data Filtering with LINQ](https://github.com/Aramirez61/EWU-CSCD371-2024-Winter/tree/LINQ_DATA_FILTERING)**  
 -C# application using LINQ to process and analyze CSV datasets, including unit testing with MSTest.
 
-**Dynamic IP Shuffling Defense**  
+**[Dynamic IP Shuffling Defense](https://drive.google.com/file/d/12Uwjm2qxqHEAN82_29VmoJU0ZBP2bNEu/view)**  
 -Python-based IP rotation system running in Ubuntu to prevent reconnaissance and scanning attacks. Built/tested using pfSense and Linux VMs.  
--[Project Report (Google Docs)](https://drive.google.com/file/d/12Uwjm2qxqHEAN82_29VmoJU0ZBP2bNEu/view)
 
-**Penetration Test and Exploitation**  
+
+**[Penetration Test and Exploitation](https://drive.google.com/file/d/1AXwRPOQWVj0ax8p2aFxKuNUd1mWmR3cs/view?usp=sharing**)**  
 -Conducted a penetration test on a virtual machine, identifying critical vulnerabilities such as NFS information disclosure, SSH misconfigurations, and Local File Inclusion in Bolt CMS. 
--[Project Report (Google Docs)](https://drive.google.com/file/d/1AXwRPOQWVj0ax8p2aFxKuNUd1mWmR3cs/view?usp=sharing)
+
+**[AWS Honeypot Deployment](https://drive.google.com/file/d/1t8kPwWOruTE3tBG9jbGhvw2HLHvB_Jdw/view?usp=sharing)**
+-Configured and deployed an OpenCanary honeypot in an AWS Ubuntu instance using Docker to emulate vulnerable services for intrusion detection.
 
 ---
 
