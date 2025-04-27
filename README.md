@@ -47,8 +47,9 @@ to manage events, volunteers, and secure user accounts for a spiritual temple.
 **[Penetration Test and Exploitation](https://drive.google.com/file/d/1AXwRPOQWVj0ax8p2aFxKuNUd1mWmR3cs/view?usp=sharing**)**  
 -Conducted a penetration test on a virtual machine, identifying critical vulnerabilities such as NFS information disclosure, SSH misconfigurations, and Local File Inclusion in Bolt CMS. 
 
-**[AWS Honeypot Deployment](https://drive.google.com/file/d/1t8kPwWOruTE3tBG9jbGhvw2HLHvB_Jdw/view?usp=sharing)**
+**[AWS Honeypot Deployment](https://drive.google.com/file/d/1t8kPwWOruTE3tBG9jbGhvw2HLHvB_Jdw/view?usp=sharing)**  
 -Configured and deployed an OpenCanary honeypot in an AWS Ubuntu instance using Docker to emulate vulnerable services for intrusion detection.
+
 
 ---
 
